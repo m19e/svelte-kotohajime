@@ -2,7 +2,7 @@
     export let name: string;
 </script>
 
-<style>
+<style lang="scss">
     main {
         text-align: center;
         padding: 1em;
