@@ -62,8 +62,6 @@ export default {
                 typescript({
                     /* typescript options */
                 }),
-            ],
-            preprocess: [
                 scss({
                     /* scss options */
                 }),
