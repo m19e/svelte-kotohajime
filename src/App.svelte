@@ -8,6 +8,9 @@
         padding: 1em;
         max-width: 240px;
         margin: 0 auto;
+        p {
+            color: #ff3e00;
+        }
     }
 
     h1 {
