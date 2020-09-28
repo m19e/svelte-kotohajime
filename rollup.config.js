@@ -63,6 +63,11 @@ export default {
                     /* typescript options */
                 }),
             ],
+            preprocess: [
+                scss({
+                    /* scss options */
+                }),
+            ],
         }),
 
         // If you have external dependencies installed from
